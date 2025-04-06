@@ -18,7 +18,8 @@ I used google colab to run everything
 For use download the ipynb file and run in your favoriate IDE.
 
 ## Algorithm
-For this simple project I picked Linear Regression model it's easy to understand for beginners, easy to get up and go. 
+For this simple project I used SKlearn Stochastic Gradient Descent (SGD) Regression model, its simple and easy enough to use.
+The model can be found here [Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd.html#regression)
 
 ## Dataset 
 For the dataset I used :  [Kaggle - Rain In Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
